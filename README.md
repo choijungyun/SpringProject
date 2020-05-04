@@ -10,3 +10,7 @@ pom.xml작성
 java,resources 폴더
 
 pom.xml파일은 메이븐 설정파일로 메이븐은 라이브러리를 연결해주고, 빌드를 위한 플랫폼이다.
+
+1) eclipse에서 spring을 생성하는 방법 
+
+2) local에서 java, resources폴더를 만들어 pom.xml을 생성시켜 이클립스에서 import하는 방법
