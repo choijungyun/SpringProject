@@ -6,5 +6,7 @@
 ##1. Spring Project 생성
 
 pom.xml작성
+
 java,resources 폴더
+
 pom.xml파일은 메이븐 설정파일로 메이븐은 라이브러리를 연결해주고, 빌드를 위한 플랫폼이다.
